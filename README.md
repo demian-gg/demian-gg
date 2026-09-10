@@ -9,4 +9,5 @@ I mostly work with **TypeScript**, **React**, **Next.js**, **C**, and **Linux**.
 
 - **[LimeOS](https://limeos.org)** - A more coherent kind of Linux.
 - **[OpenTTD World](https://openttd.world)** - Generate OpenTTD heightmaps of any location on Earth.
+- **[XMRStats](https://xmrstats.com)** - An all-in-one statistics hub for Monero (XMR).
 - **[Pawn Humanize](https://github.com/demian-gg/pawn-humanize)** - Human-friendly number and color formatting library for Pawn.
