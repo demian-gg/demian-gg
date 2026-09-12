@@ -1,8 +1,5 @@
-## Hey there! 👋
-
 I'm Demian, a Software Engineer & Designer. I build and ship products end to
 end, working across frontend engineering, systems software, product, and design.
-
 I mostly work with **TypeScript**, **React**, **Next.js**, **C**, and **Linux**.
 
 ### Projects
